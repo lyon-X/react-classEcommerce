@@ -1,0 +1,114 @@
+/* .myForm form { */
+/* background-color: #ccc; */
+/* width: 500px; */
+/* display: flex; */
+/* flex-direction: column; */
+/* align-items: center; */
+/* justify-content: center; */
+/* margin: auto; */
+/* } */
+/*  */
+/* .myForm form input { */
+/* display: block; */
+/* width: 400px; */
+/* padding: 1rem; */
+/* margin-bottom: 1rem; */
+/* border: none; */
+/* outline: none; */
+/* } */
+/*  */
+/* .myForm form .eye { */
+/* position: relative; */
+/* margin-bottom: 1rem; */
+/* margin-top: 1rem; */
+/* } */
+/*  */
+/* #ic { */
+/* position: absolute; */
+/* right: 1rem; */
+/* top: 1rem; */
+/* cursor: pointer; */
+/* } */
+/*  */
+/* .myForm form button { */
+/* width: 440px; */
+/* padding: 1rem; */
+/* margin-bottom: 1rem; */
+/* border: none; */
+/* outline: none; */
+/* background-color: white; */
+/* color: #111; */
+/* transition: all 0.5s ease; */
+/* font-size: 20px; */
+/* } */
+/*  */
+/* .myForm form button:hover { */
+/* border: 1px solid white; */
+/* background-color: rebeccapurple; */
+/* color: white; */
+/* } */
+/* small span { */
+/* cursor: pointer; */
+/* } */
+/*  */
+/* .popup { */
+/* margin: auto; */
+/* background-color: #bebdbd; */
+/* width: 300px; */
+/* padding: 10px; */
+/* text-align: center; */
+/* } */
+/* .bt { */
+/* margin-top: 2rem; */
+/* display: flex; */
+/* align-items: center; */
+/* justify-content: space-around; */
+/* } */
+/*  */
+/* .bt button:nth-child(1) { */
+/* background-color: red; */
+/* width: 100px; */
+/* border: none; */
+/* outline: none; */
+/* padding: 1rem; */
+/* color: white; */
+/* } */
+/*  */
+/* .bt button:nth-child(2) { */
+/* background-color: rgb(54, 47, 255); */
+/* width: 100px; */
+/* border: none; */
+/* outline: none; */
+/* padding: 1rem; */
+/* color: white; */
+/* } */
+/*  */
+/* .popUp { */
+/* background: rgb(182, 170, 170); */
+/* width: 700px; */
+/* height: 400px; */
+/* margin: auto; */
+/* text-align: center; */
+/* } */
+/*  */
+/* .popUp h5 { */
+/* font-size: 18px; */
+/* padding-top: 5rem; */
+/* } */
+/* .pp { */
+/* display: flex; */
+/* align-items: center; */
+/* justify-content: center; */
+/* } */
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+}
+.wrapper {
+  background-color: #f7f7f7;
+  /* padding-left: 2rem; */
+  /* padding-right: 2rem; */
+}
